@@ -1,0 +1,16 @@
+.row{
+    margin-top: 8rem !important;
+
+}
+.btn{
+    font-size: 0.8rem;
+}
+.content h1{
+ font-weight: bold;
+ letter-spacing: 2px;
+ word-spacing: 2px;
+}
+.content p{
+    font-weight: 300;
+    color: gray;
+}
