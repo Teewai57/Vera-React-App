@@ -1,11 +1,12 @@
 import React from "react";
 import './content.css'
+import Image from './images.png'
 
 
 export default function Content() {
     return(
-        <div className="row mt-5">
-            <div className="col-md-6">
+        <div className="row mt-5 justify-content-center">
+            <div className="col-md-6 justify-self-center">
                 <div className="content">
                     <h1>Design a better <br></br> website template </h1>
                     <p className="w-70 mt-3">Giving you the best tools to work it to build better templates <br></br> Lorem ipsum dolor sit amet consectetur adipisicing.</p>
@@ -15,7 +16,9 @@ export default function Content() {
                 </div>
             </div>
             <div className="col-md-6">
-
+                <img src={Image} alt="Vera Image">
+                
+                </img>
             </div>
         </div>
     )

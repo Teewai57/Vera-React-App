@@ -1,5 +1,6 @@
 import Navbar from './navbar'
 import Content from './content'
+import './App.css'
 
 function App() {
   return (

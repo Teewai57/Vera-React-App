@@ -5,6 +5,12 @@
 .btn{
     font-size: 0.8rem;
 }
+.content{
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    /* text-align: center; */
+}
 .content h1{
  font-weight: bold;
  letter-spacing: 2px;
@@ -13,4 +19,7 @@
 .content p{
     font-weight: 300;
     color: gray;
+}
+img{
+    width: 35rem;
 }
