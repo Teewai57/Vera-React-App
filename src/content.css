@@ -11,6 +11,12 @@
     align-items: center;
     /* text-align: center; */
 }
+/* .content-img{
+    position: absolute;
+} */
+.play{
+    margin-top: -30rem !important;
+}
 .content h1{
  font-weight: bold;
  letter-spacing: 2px;

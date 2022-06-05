@@ -1,0 +1,14 @@
+/* .card{
+    width: 18rem;
+} */
+.card-content{
+    background-color: white;
+}
+.card-body{
+    outline: none !important;
+    border: none !important;
+}
+.card{
+    outline: none !important;
+    border: none !important;
+}

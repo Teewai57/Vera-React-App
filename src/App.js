@@ -1,5 +1,6 @@
 import Navbar from './navbar'
 import Content from './content'
+import Card from './card'
 import './App.css'
 
 function App() {
@@ -7,6 +8,7 @@ function App() {
       <div className='container'>
             <Navbar />
             <Content />
+            <Card />
       </div>
   );
 }

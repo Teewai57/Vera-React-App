@@ -1,3 +1,4 @@
 body{
-  background-color: rgb(228, 228, 228);
+  /* background-color: rgb(228, 228, 228); */
+  background-image: linear-gradient( rgb(221, 220, 220) 100%, white 10% );
 }
