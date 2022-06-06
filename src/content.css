@@ -11,12 +11,6 @@
     align-items: center;
     /* text-align: center; */
 }
-/* .content-img{
-    position: absolute;
-} */
-.play{
-    margin-top: -30rem !important;
-}
 .content h1{
  font-weight: bold;
  letter-spacing: 2px;
@@ -28,4 +22,14 @@
 }
 img{
     width: 35rem;
+}
+@media (min-width:768px) {
+    .first-column{
+        margin-top: 5rem;
+    }
+}
+@media (max-width:425px) {
+    img{
+        width: 24rem;
+    }
 }
