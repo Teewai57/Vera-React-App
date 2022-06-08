@@ -5,6 +5,6 @@ body{
 
 @media (max-width:768px) {
   body{
-    background-image: linear-gradient( rgb(221, 220, 220) 80%,  black 20% );
+    background-image: linear-gradient( rgb(221, 220, 220) 85%,  black 15% );
   }
 }
