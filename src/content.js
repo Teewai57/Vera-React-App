@@ -16,8 +16,7 @@ export default function Content() {
                 </div>
             </div>
             <div className="col-md-6 justify-self-center mt-3">
-                <img src={Image} alt="V"></img>
-                <a href="https://www.youtube.com/watch?v=xfQItZABQBA&t=5s"><i class="fa fa-youtube-play play" aria-hidden="true"></i>Watch</a>
+                <a href="https://www.youtube.com/watch?v=xfQItZABQBA&t=5s"><img src={Image} alt="V"></img></a>
             </div>
         </div>
     )
