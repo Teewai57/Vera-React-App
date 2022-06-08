@@ -1,7 +1,4 @@
-.row{
-    margin-top: 8rem !important;
 
-}
 .btn{
     font-size: 0.8rem;
 }
@@ -24,6 +21,10 @@ img{
     width: 35rem;
 }
 @media (min-width:768px) {
+    .row{
+    margin-top: 8rem !important;
+
+}
     .first-column{
         margin-top: 5rem;
     }

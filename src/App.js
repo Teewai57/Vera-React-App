@@ -6,14 +6,14 @@ import './App.css'
 
 function App() {
   return (
-    <div className='Container-fluid'>
+    // <div className='Container-fluid'>
       <div className='container'>
         <Navbar />
         <Content />
         <Card />
+        <Footer />
       </div>
-      <Footer />
-    </div>
+    // </div>
   );
 }
 

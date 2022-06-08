@@ -1,4 +1,10 @@
 body{
   /* background-color: rgb(228, 228, 228); */
-  background-image: linear-gradient( rgb(221, 220, 220) 90%, white 10% );
+  background-image: linear-gradient( rgb(221, 220, 220) 90%,  black 10% );
+}
+
+@media (max-width:768px) {
+  body{
+    background-image: linear-gradient( rgb(221, 220, 220) 80%,  black 20% );
+  }
 }

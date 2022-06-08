@@ -3,7 +3,7 @@ import './card.css'
 
 export default function Card() {
     return (
-        <div className="row justify-content-around card-content mb-4 shadow">
+        <div className="row justify-content-around card-content mt-5 mb-1 shadow">
             <div className="col-md-4">
                 <div className="card b-none outline-none">
                     <div className="card-body b-none outline-none">
