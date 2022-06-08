@@ -6,3 +6,28 @@
     font-size: 1.5rem !important;
     padding: 1rem;
 }
+.nav{
+    color: white !important;
+}
+.nav > p{
+    padding: 0.5rem;
+}
+.nav > p:hover{
+    padding: 0.5rem;
+    cursor: pointer;
+    color:rgb(228, 228, 228) ;
+}
+.reserved{
+    color: white !important;
+    font-family: 'Kanit', sans-serif;
+}
+
+
+@media (max-width:425px) {
+    .brand{
+        color: white !important;
+        display: flex !important;
+        justify-content: start !important;
+    }
+}
+
