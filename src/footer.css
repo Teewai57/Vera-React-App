@@ -27,7 +27,7 @@
     .brand{
         color: white !important;
         display: flex !important;
-        justify-content: start !important;
+        justify-content: flex-start;
     }
 }
 
