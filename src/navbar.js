@@ -24,7 +24,7 @@ export default function Navbar(){
               <p class="nav-link" href="#">Dashboard</p>
             </li>
             <li class="nav-item">
-              <p class="nav-link" href="#">Contact Us</p>
+              <p class="nav-link" href="#contact">Contact Us</p>
             </li>
           </ul>
         </div>

@@ -4,7 +4,7 @@ import './footer.css'
 
 export default function Footer() {
     return (
-        <div className='footer'>
+        <div className='footer' id='contact'>
             <small className='brand d-md-none'>Atomic  </small>
             <div className='row justify-content-center'>
                 <a href="https://web.facebook.com/?_rdc=1&_rdr"><div><i class="footer-icons fa fa-facebook" aria-hidden="true"></i></div></a>
