@@ -23,8 +23,8 @@ export default function Navbar(){
             <li class="nav-item">
               <p class="nav-link" href="#">Dashboard</p>
             </li>
-            <li class="nav-item">
-              <p class="nav-link" href="#contact">Contact Us</p>
+            <li class="nav-item" >
+              <a class="nav-link" href="#contact">Contact Us</a>
             </li>
           </ul>
         </div>
